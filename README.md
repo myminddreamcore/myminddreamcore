@@ -11,6 +11,12 @@
   <img src="https://img.shields.io/badge/Email-bashlykovadaria@mail.ru-pink" alt="Email">
   </a>
 
+  
+  My bot about matrix of fate written on Java Script:<a href= "https://app.leadteh.ru/w/duNcT" target="_blank">
+  <img src="https://img.shields.io/badge/myminddreamcore_bot-blue" alt="myminddreamcore_bot">
+</a>
+
+
 📚I am also interested in astrology palmistry and numerology.
 
 
