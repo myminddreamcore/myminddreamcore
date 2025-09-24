@@ -41,7 +41,7 @@ Other skills:
 
 **Смотрите, какой забавный котик! Это прям я😹**
 
-📚I'm currently working on a telegram bot that will read your fate matrix with decryption.
+📚My telegramm bot - https://app.leadteh.ru/w/duNcT
 <!---
 myminddreamcore/myminddreamcore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
