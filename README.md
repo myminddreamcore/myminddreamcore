@@ -34,7 +34,7 @@ Other skills:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myminddreamcore&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWs4YXJ0aTl4MHhxaWxjOXB5c2NrYmV2ODU3NG83Nm5oN2tqc3d3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" alt="Funny Cat">
 </div>
