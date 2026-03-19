@@ -61,14 +61,3 @@ My bot about matrix of fate written on Java Script:
 **Смотрите, какой забавный котик! Это прям я 😹**
 
 📚 My Telegram bot - https://app.leadteh.ru/w/duNcT
-
-## 📊 GitHub Stats
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myminddreamcore&show_icons=true&theme=tokyonight&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=myminddreamcore&theme=tokyonight)
-
-</div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=myminddreamcore&color=blueviolet&style=flat-square)
