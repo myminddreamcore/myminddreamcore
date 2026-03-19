@@ -40,10 +40,10 @@ My bot about matrix of fate written on Java Script:
 ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
-### 📊 Language Usage Statistics 
+### 📊 Language Usage Statistics (только используемые языки)
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myminddreamcore&layout=pie&theme=tokyonight&langs_count=12&card_width=450)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myminddreamcore&layout=pie&theme=tokyonight&langs_count=10&card_width=450&hide_title=true)
 
 
 </div>
