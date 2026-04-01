@@ -44,7 +44,7 @@ My bot about matrix of fate written on Java Script:
 ###  Language Usage Statistics 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myminddreamcore&layout=compact&theme=tokyonight&langs_count=10&hide_title=true&card_width=450)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myminddreamcore&layout=compact&theme=tokyonight&langs_count=10&hide_title=true)
 
 </div>
 
