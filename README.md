@@ -4,7 +4,7 @@
 - 👀 I am interested in programming, most like back-end
 - 🌱 I am currently studying for a degree in "information systems and programming (programmer)", and I am also studying in parallel at courses called "software development"
 - 💞️ I am ready to cooperate and learn a lot of new things!
-- My portfolio : <a href="[https://t.me/myminddreamcore](https://github.com/myminddreamcore/portfolio)" target="_blank"/>
+- My portfolio : <a href="https://github.com/myminddreamcore/portfolio" target="_blank">Portfolio</a>
 - 🔭 How to contact me: 
   Telegram: <a href="https://t.me/myminddreamcore" target="_blank">
     <img src="https://img.shields.io/badge/myminddreamcore-red" alt="myminddreamcore">
