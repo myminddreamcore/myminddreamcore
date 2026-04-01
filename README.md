@@ -20,7 +20,7 @@ My bot about matrix of fate written on Java Script:
 
 📚 I am also interested in astrology, palmistry, and numerology.
 
-## 💻 My Tech Stack
+##  My Tech Stack
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,15 +41,14 @@ My bot about matrix of fate written on Java Script:
 ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
-### 📊 Language Usage Statistics 
+###  Language Usage Statistics 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myminddreamcore&layout=pie&theme=tokyonight&langs_count=10&card_width=450&hide_title=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myminddreamcore&layout=compact&theme=tokyonight&langs_count=10&hide_title=true&card_width=450)
 
 </div>
 
-### 🗄️ Databases:
+###  Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
