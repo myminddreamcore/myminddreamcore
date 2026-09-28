@@ -1,11 +1,11 @@
 ![Cute Kitten](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1iZHoyZWxoamRpcm9ucXQ0cXptam44eGVrOGVxZ3B3dHdyeHhrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NbhiwA0C8THIv8KvG5/giphy.gif)
 
 - Hi, I'm @myminddreamcore
-- 👀 I am interested in programming, most like back-end
-- 🌱 I am currently studying for a degree in "information systems and programming (programmer)", and I am also studying in parallel at courses called "software development"
-- 💞️ I am ready to cooperate and learn a lot of new things!
-- My portfolio : <a href="https://github.com/myminddreamcore/portfolio" target="_blank">Portfolio</a>
-- 🔭 How to contact me: 
+- I am interested in programming, most like back-end
+- I am currently studying for a degree in "information systems and programming (programmer)", and I am also studying in parallel at courses called "software development"
+- I am ready to cooperate and learn a lot of new things!
+- My portfolio : <a href="https://github.com/myminddreamcore/Portfolio" target="_blank">Portfolio</a>
+- How to contact me: 
   Telegram: <a href="https://t.me/myminddreamcore" target="_blank">
     <img src="https://img.shields.io/badge/myminddreamcore-red" alt="myminddreamcore">
   </a> 
@@ -17,8 +17,7 @@ My bot about matrix of fate written on Java Script:
 <a href="https://app.leadteh.ru/w/duNcT" target="_blank">
   <img src="https://img.shields.io/badge/myminddreamcore_bot-blue" alt="myminddreamcore_bot">
 </a>
-
-📚 I am also interested in astrology, palmistry, and numerology.
+I am also interested in astrology, palmistry, and numerology.
 
 ##  My Tech Stack
 
